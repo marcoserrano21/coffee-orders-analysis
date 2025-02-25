@@ -17,3 +17,5 @@ This project is built using Excel and provides a detailed analysis of coffee ord
 - **Excel (Data Management)**: Used for organizing and structuring the data across multiple sheets related to orders, customers, and sales.
 - **Charts (Visualization)**: Excel charts, such as bar charts, are employed to visualize key metrics like country-wise sales and top customers.
 - **Dashboard Creation**: Summarizes data in a dashboard, offering an interactive and visual interface to support decision-making.
+
+![image](https://github.com/user-attachments/assets/1474959b-66fc-4be4-8c0d-d22fba054043)
